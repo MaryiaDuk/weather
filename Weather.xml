@@ -20,28 +20,28 @@
                 <temp_max>13</temp_max>
                 <temp_min>4</temp_min>
                 <humidity>100</humidity>
-                <description>rain</description>
+                <description>rainy</description>
             </place>
             <place>
                 <name>Rome, IT</name>
                 <temp_max>17</temp_max>
                 <temp_min>13</temp_min>
                 <humidity>25</humidity>
-                <description>sun</description>
+                <description>sunny</description>
             </place>
             <place>
                 <name>Madrid, ES</name>
                 <temp_max>15</temp_max>
                 <temp_min>3</temp_min>
                 <humidity>85</humidity>
-                <description>rain</description>
+                <description>rainy</description>
             </place>
             <place>
                 <name>London, GB</name>
                 <temp_max>13</temp_max>
                 <temp_min>4</temp_min>
                 <humidity>50</humidity>
-                <description>fog</description>
+                <description>foggy</description>
             </place>
         </location>
 </weather>
