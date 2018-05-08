@@ -1,45 +1,50 @@
-{
-  "weather": {
-    "date": "2018-05-01",
-    "location": {
-      "-name": "Asia",
-      "place": [
-        {
-          "name": "Beijing, CN",
-          "temp_max": "23",
-          "temp_min": "14",
-          "humidity": "27",
-          "description": "sun"
-        },
-        {
-          "name": "Astana, KZ",
-          "temp_max": "6",
-          "temp_min": "1",
-          "humidity": "67",
-          "description": "cloudy"
-        },
-        {
-          "name": "Tokyo, JP",
-          "temp_max": "22",
-          "temp_min": "15",
-          "humidity": "39",
-          "description": "sunny"
-        },
-        {
-          "name": "New Delhi, IN",
-          "temp_max": "37",
-          "temp_min": "27",
-          "humidity": "30",
-          "description": "cloudy"
-        },
-        {
-          "name": "Seoul, KR",
-          "temp_max": "23",
-          "temp_min": "15",
-          "humidity": "33",
-          "description": "sunny"
-        }
-      ]
-    }
+{"place":
+     [ {
+        "location": "Asia",
+        "name": "Beijing, CN",
+        "temp_max": "23",
+        "temp_min": "14",
+        "humidity": "27",
+        "description": "sun"
+      },
+      {
+        "location": "Asia",
+        "name": "Astana, KZ",
+        "temp_max": "6",
+        "temp_min": "1",
+        "humidity": "67",
+        "description": "cloudy"
+      },
+      {
+        "location": "Asia",
+        "name": "Tokyo, JP",
+        "temp_max": "22",
+        "temp_min": "15",
+        "humidity": "39",
+        "description": "sunny"
+      },
+      {
+        "location": "Asia",
+        "name": "New Delhi, IN",
+        "temp_max": "37",
+        "temp_min": "27",
+        "humidity": "30",
+        "description": "cloudy"
+      },
+      {
+        "location": "Asia",
+        "name": "Seoul, KR",
+        "temp_max": "23",
+        "temp_min": "15",
+        "humidity": "33",
+        "description": "sunny"
+      },
+      {
+        "location": "Asia",
+        "name": "London, GB",
+        "temp_max": "13",
+        "temp_min": "4",
+        "humidity": "50",
+        "description": "fog"
+      }]
   }
-}
