@@ -38,13 +38,6 @@
           "temp_min": "15",
           "humidity": "33",
           "description": "sunny"
-        },
-        {
-          "name": "London, GB",
-          "temp_max": "13",
-          "temp_min": "4",
-          "humidity": "50",
-          "description": "fog"
         }
       ]
     }
