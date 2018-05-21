@@ -1,0 +1,82 @@
+<weather>
+        <date>2018-05-01</date>
+        <location name="Europe">
+            <place>
+                <name>Minsk, BY</name>
+                <temp_max>22</temp_max>
+                <temp_min>13</temp_min>
+                <humidity>95</humidity>
+                <description>thunderstorms</description>
+            </place>
+            <place>
+                <name>Moscow, RU</name>
+                <temp_max>20</temp_max>
+                <temp_min>9</temp_min>
+                <humidity>90</humidity>
+                <description>thunderstorms</description>
+            </place>
+            <place>
+                <name>Paris, FR</name>
+                <temp_max>13</temp_max>
+                <temp_min>4</temp_min>
+                <humidity>100</humidity>
+                <description>rainy</description>
+            </place>
+            <place>
+                <name>Rome, IT</name>
+                <temp_max>17</temp_max>
+                <temp_min>13</temp_min>
+                <humidity>25</humidity>
+                <description>sunny</description>
+            </place>
+            <place>
+                <name>Madrid, ES</name>
+                <temp_max>15</temp_max>
+                <temp_min>3</temp_min>
+                <humidity>85</humidity>
+                <description>rainy</description>
+            </place>
+            <place>
+                <name>London, GB</name>
+                <temp_max>13</temp_max>
+                <temp_min>4</temp_min>
+                <humidity>50</humidity>
+                <description>foggy</description>
+            </place>
+            <place>
+                <name>Vienna, AT</name>
+                <temp_max>20</temp_max>
+                <temp_min>11</temp_min>
+                <humidity>10</humidity>
+                <description>sunny</description>
+            </place>
+             <place>
+                <name>Brussels, BE</name>
+                <temp_max>19</temp_max>
+                <temp_min>10</temp_min>
+                <humidity>25</humidity>
+                <description>cloudy</description>
+            </place>
+             <place>
+                <name>Sofia, BG</name>
+                <temp_max>21</temp_max>
+                <temp_min>13</temp_min>
+                <humidity>40</humidity>
+                <description>sunny</description>
+            </place>
+            <place>
+                <name>Prague, CZ</name>
+                <temp_max>18</temp_max>
+                <temp_min>12</temp_min>
+                <humidity>12</humidity>
+                <description>rainy</description>
+            </place>
+            <place>
+                <name>Oslo, NO</name>
+                <temp_max>20</temp_max>
+                <temp_min>10</temp_min>
+                <humidity>18</humidity>
+                <description>rainy</description>
+            </place>
+        </location>
+</weather>
