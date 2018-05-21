@@ -2,14 +2,14 @@
         <date>2018-05-01</date>
         <location name="Europe">
             <place>
-                <name>Minsk, By</name>
+                <name>Minsk, BY</name>
                 <temp_max>22</temp_max>
                 <temp_min>13</temp_min>
                 <humidity>95</humidity>
                 <description>thunderstorms</description>
             </place>
             <place>
-                <name>Moscow, RUS</name>
+                <name>Moscow, RU</name>
                 <temp_max>20</temp_max>
                 <temp_min>9</temp_min>
                 <humidity>90</humidity>
